@@ -15,6 +15,11 @@ I have honed my skills in various programming languages, tools, and platforms,  
 🌱 I’m currently working on enriching my cloud engineering skills.<br>
 📝 I regularly write articles on [dev.to](https://dev.to/bikodes) and [linkedIn](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bikodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/BiKodes) 
