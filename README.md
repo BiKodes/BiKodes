@@ -18,11 +18,11 @@ I have honed my skills in various programming languages, tools, and platforms,  
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the most important part of Event-Driven Architecture?](https://dev.to/bikodes/whats-the-most-important-part-of-event-driven-architecture-m2a)
 - [REST API Vs GraphQL](https://dev.to/bikodes/rest-vs-graphql-api-afg)
 - [Abstraction in Object Oriented Programming&lpar;OOP&rpar; For Beginners](https://dev.to/bikodes/abstraction-in-object-oriented-programmingoop-for-beginners-2o33)
 - [The Tempestuous Tale of Docker: A Sea-Change in the Realm of Computing](https://dev.to/bikodes/the-tempestuous-tale-of-docker-a-sea-change-in-the-realm-of-computing-2i2d)
 - [The Mechanical Intellect: A Treatise on ChatGPT](https://dev.to/bikodes/the-mechanical-intellect-a-treatise-on-chatgpt-99n)
-- [HOW TO EAT A TECH FROG](https://dev.to/bikodes/how-to-eat-a-tech-frog-18h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🌐 Socials
