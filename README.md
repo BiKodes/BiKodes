@@ -18,11 +18,11 @@ I have honed my skills in various programming languages, tools, and platforms,  
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Testing Basics](https://dev.to/bikodes/software-testing-basics-11mn)
 - [How To Uninstall Docker and Docker Compose On Linux Mint](https://dev.to/bikodes/how-to-uninstall-docker-and-docker-compose-on-linux-mint-24oo)
 - [How To Improve API Performance](https://dev.to/bikodes/how-to-improve-api-performance-5440)
 - [What’s the most important part of Event-Driven Architecture?](https://dev.to/bikodes/whats-the-most-important-part-of-event-driven-architecture-m2a)
 - [REST API Vs GraphQL](https://dev.to/bikodes/rest-vs-graphql-api-afg)
-- [Abstraction in Object Oriented Programming&lpar;OOP&rpar; For Beginners](https://dev.to/bikodes/abstraction-in-object-oriented-programmingoop-for-beginners-2o33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🌐 Socials
