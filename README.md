@@ -3,7 +3,7 @@
 </div>
 
 
-## Hello 👋, I'm Biko from Kenya.
+## Hello 👋, I'm Biko Olianga from Kenya.
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BiKodes&theme=dark&no-frame=false&no-bg=false&margin-w=4)
