@@ -5,11 +5,6 @@
 
 ## Hello 👋, I'm Biko Olianga from Kenya.
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BiKodes&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 💫 About me
-
 I have honed my skills in various programming languages, tools, and platforms,  to create exceptional solutions for clients and users alike. My passion for coding and my commitment to delivering results have made me a trusted resource for businesses and organizations looking to take their software development projects to the next level.<br><br>So, whether you're looking to collaborate on a project or simply seeking inspiration for your next coding endeavor, my GitHub profile is the perfect place to start. <br><br>
 
 🌱 I’m currently working on enriching my cloud engineering skills.<br>
