@@ -7,7 +7,7 @@
 
 I have honed my skills in various programming languages, tools, and platforms,  to create exceptional solutions for clients and users alike. My passion for coding and my commitment to delivering results have made me a trusted resource for businesses and organizations looking to take their software development projects to the next level.<br><br>So, whether you're looking to collaborate on a project or simply seeking inspiration for your next coding endeavor, my GitHub profile is the perfect place to start. <br><br>
 
-🌱 I’m currently working on enriching my cloud engineering skills.<br>
+🌱 I’m currently learning Golang.<br>
 📝 I regularly write articles on [dev.to](https://dev.to/bikodes) and [linkedIn](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
 ### :writing_hand: Blog Posts :
