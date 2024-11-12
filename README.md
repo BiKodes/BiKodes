@@ -5,9 +5,9 @@
 
 ## Hello 👋, I'm Biko Olianga from Kenya.
 
-I have honed my skills in various programming languages, tools, and platforms,  to create exceptional solutions for clients and users alike. My passion for coding and my commitment to delivering results have made me a trusted resource for businesses and organizations looking to take their software development projects to the next level.<br><br>So, whether you're looking to collaborate on a project or simply seeking inspiration for your next coding endeavor, my GitHub profile is the perfect place to start. <br><br>
+I am a software and finance engineer who thrives on solving complex problems and continuously learning new skills. I enjoy reading and tackling puzzles to sharpen my analytical thinking. 
 
-🌱 I’m currently learning Golang.<br>
+🌱 Currently, I am expanding my technical expertise by studying the Linux/UNIX programming interface and programming in C.<br>
 📝 I regularly write articles on [dev.to](https://dev.to/bikodes) and [linkedIn](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
 ### :writing_hand: Blog Posts :
