@@ -3,7 +3,7 @@
 </div>
 
 
-## Hello 👋, I'm Biko Olianga from Kenya.
+## Hello 👋, I'm Biko from Kenya.
 
 I am a software and finance engineer who thrives on solving complex problems and continuously learning new skills. I enjoy reading and tackling puzzles to sharpen my analytical thinking. 
 
