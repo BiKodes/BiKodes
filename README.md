@@ -10,7 +10,7 @@ I am a software and finance engineer who thrives on solving complex problems and
 🌱 Currently, I am expanding my technical expertise by studying the Linux/UNIX programming interface and programming in C.<br>
 📝 I regularly write articles on [dev.to](https://dev.to/bikodes) and [linkedIn](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Software Testing Basics](https://dev.to/bikodes/software-testing-basics-11mn)
