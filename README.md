@@ -3,12 +3,13 @@
 </div>
 
 
-## Hello 👋, I'm Biko from Kenya.
+## Hello 👋, I'm Biko from Kenya. It is a pleasure to connect!
 
 I am a software and finance engineer who thrives on solving complex problems and continuously learning new skills. I enjoy reading and tackling puzzles to sharpen my analytical thinking. 
 
-🌱 Currently, I am expanding my technical expertise by studying Programming in C by K&R2.<br>
-📝 I regularly write articles on [dev.to](https://dev.to/bikodes) and [linkedIn](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
+🌱 Currently, I am expanding my technical expertise by studying Programming in C by K & R2.<be>
+
+📝 I consistently publish articles on [Dev.to](https://dev.to/bikodes) and [LinkedIn.](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
 ### :writing_hand: Blog Posts
 
