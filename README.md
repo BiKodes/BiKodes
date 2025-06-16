@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-## Hello 👋, I'm Biko from Kenya. It is a pleasure to connect!
-
-I am a software and finance engineer who thrives on solving complex problems and continuously learning new skills. I enjoy reading and tackling puzzles to sharpen my analytical thinking. 
-
 🌱 I am currently deepening my technical expertise by studying **The C Programming Language by Kernighan and Ritchie.**<be>
 
 📝 I consistently publish articles on [Dev.to](https://dev.to/bikodes) and [LinkedIn.](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
