@@ -9,11 +9,11 @@
 ### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Bash/Shell Commands for Beginners](https://forem.com/bikodes/essential-bashshell-commands-for-beginners-9dk)
-- [How to Optimize SQL Queries for Speed and Efficiency](https://forem.com/bikodes/how-to-optimize-sql-queries-for-speed-and-efficiency-5hd7)
-- [Software Testing Basics](https://forem.com/bikodes/software-testing-basics-11mn)
-- [How To Uninstall Docker and Docker Compose On Linux Mint](https://forem.com/bikodes/how-to-uninstall-docker-and-docker-compose-on-linux-mint-24oo)
-- [How To Improve API Performance](https://forem.com/bikodes/how-to-improve-api-performance-5440)
+- [Essential Bash/Shell Commands for Beginners](https://dev.to/bikodes/essential-bashshell-commands-for-beginners-9dk)
+- [How to Optimize SQL Queries for Speed and Efficiency](https://dev.to/bikodes/how-to-optimize-sql-queries-for-speed-and-efficiency-5hd7)
+- [Software Testing Basics](https://dev.to/bikodes/software-testing-basics-11mn)
+- [How To Uninstall Docker and Docker Compose On Linux Mint](https://dev.to/bikodes/how-to-uninstall-docker-and-docker-compose-on-linux-mint-24oo)
+- [How To Improve API Performance](https://dev.to/bikodes/how-to-improve-api-performance-5440)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🌐 Socials
