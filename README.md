@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 🌱 I am currently deepening my technical expertise by studying **The C Programming Language by Kernighan and Ritchie.**<be>
 
 📝 I consistently publish articles on [Dev.to](https://dev.to/bikodes) and [LinkedIn.](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
