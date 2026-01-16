@@ -1,5 +1,3 @@
-🌱 I am currently deepening my technical expertise by studying **The C Programming Language by Kernighan and Ritchie.**<be>
-
 📝 I consistently publish articles on [Dev.to](https://dev.to/bikodes) and [LinkedIn.](https://www.linkedin.com/pulse/ledgers-lament-woeful-misfortune-impoverished-biko-steven/)
 
 ### :writing_hand: Blog Posts
